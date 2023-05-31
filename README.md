@@ -42,6 +42,12 @@
 `#Prompt` \
 `Import-Module posh-git` \
 `Import-Module oh-my-posh` \
-`Set-PoshPrompt Paradox` \
+`Set-PoshPrompt Paradox`
+
+11. re-open your powershell 
+
+13. create prompt profile for oh-my-posh with \
+`vim xxx.omp.json`
+### copy code from tohno.omp.json into it and reload your prompt
 
 
