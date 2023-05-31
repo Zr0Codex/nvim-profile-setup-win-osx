@@ -151,3 +151,7 @@ function which ($command) {
       Set-PoshPrompt name-your-theme
       ```
     - or you can change it perminantly you can edit into xxx.omp.json
+
+23. Terminal Setup youtube credit link  
+    - [oh-my-posh setup windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM&t=748s)
+
