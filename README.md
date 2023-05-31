@@ -5,7 +5,9 @@
 1. Setup powershell form widows store and copy setting.json into setting.json of powershell 
 
 2. Install scoop  
-```iwr -useb get.scoop.sh | iex```  
+```
+iwr -useb get.scoop.sh | iex
+```    
 
 3. Install curl, sudo and jq and wait to finish  
 ```scoop install curl sudo jq```  
