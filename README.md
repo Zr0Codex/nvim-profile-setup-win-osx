@@ -39,7 +39,9 @@
 
 10. add command after install oh-my-posh into user_profile.ps1 \
 
-`#Prompt`
-`Import-Module posh-git`
-`Import-Module oh-my-posh`
-`Set-PoshPrompt Paradox`
+`#Prompt` \
+`Import-Module posh-git` \
+`Import-Module oh-my-posh` \
+`Set-PoshPrompt Paradox` \
+
+
